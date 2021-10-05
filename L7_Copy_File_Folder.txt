@@ -1,0 +1,13 @@
+File Copy
+	
+	cp sample.txt /home/Desktop/Sample/firstsample
+
+
+Folder Copy
+
+	cp -r sample /home/Desktop/Sample/firstsample
+
+			where r is recursive function
+
+
+

@@ -1,0 +1,47 @@
+Creating The File
+
+
+    gedit newnote 
+
+    gedit newnote
+
+    gedit --help 
+
+
+
+
+    touch first.txt
+        Here touch command is for creating the file
+
+
+
+
+Display
+
+    cat first.txt
+
+        Here cat is for display the contents in the terminal
+
+
+    cat first.txt | less
+
+        Here Contents will be less
+
+
+    How Do i Display content with Number ?
+
+        cat -b sec1.txt
+
+
+
+Sort the Content in the files ?
+    
+    Ascending Order 
+        
+        sort filename.extension
+
+    Descending Order
+
+        sort -r filename.extension
+
+        

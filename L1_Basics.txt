@@ -1,0 +1,32 @@
+
+How Do i See the Syntax of Each Linux Command and Various Options ?
+
+	1) ls --help
+
+	2) any_linux_command --help
+
+	3) man ls
+
+	4) man any_linux_command
+
+
+
+See the hidden files ?
+	
+	ls -a
+
+
+
+Sort the files?
+	
+	ls -c
+
+
+See the all mode or permission and time details  of files ?
+	
+	ls -l
+
+
+
+
+

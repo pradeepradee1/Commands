@@ -1,0 +1,13 @@
+How Do i See List of history command ?
+
+	history
+
+
+We can also Execute the By using Command PID ?
+
+	!80
+
+How Do i Clear The history ?
+
+	history -c
+

@@ -1,0 +1,5 @@
+ rmdir Sample  
+
+ rm -r Sample
+
+ rm --help

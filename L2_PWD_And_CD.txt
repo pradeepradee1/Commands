@@ -1,0 +1,25 @@
+1) pwd
+
+		How Do i Know Current Directory ?
+			
+			pwd
+
+			pwd - Print Working Directory
+
+
+
+2) cd
+
+		How Do i Direction into home ?
+
+			cd
+
+		How Do i Direction into ROOT ?
+
+			cd /
+
+
+
+Example
+
+		Root/home/Pradeep.k@zucisystems.com/home/..

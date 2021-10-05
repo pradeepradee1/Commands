@@ -1,0 +1,8 @@
+
+Syntax 
+
+grep search_content filename.extension
+
+grep a first.txt
+
+grep -i a first.txt

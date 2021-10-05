@@ -1,0 +1,4 @@
+
+File and Folder Move
+	
+	mv sample.txt /home/Desktop/Sample/firstsample
