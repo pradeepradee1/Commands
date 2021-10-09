@@ -1,5 +1,5 @@
 
-How Do i See the Syntax of Each Linux Command and Various Options ?
+How Do i See the Syntax of Each Linux Command and Various Flag Options ?
 
 	1) ls --help
 
@@ -11,10 +11,13 @@ How Do i See the Syntax of Each Linux Command and Various Options ?
 
 
 
+
+ls /home/pradeep.k@zucisystems.com/Dummy/Train/
+
+
 See the hidden files ?
 	
 	ls -a
-
 
 
 Sort the files?

@@ -6,6 +6,8 @@
 
  mkdir -p Sample/Today/Check
 
+        Where P is Parent Flag
+
  mkdir --help
 
 

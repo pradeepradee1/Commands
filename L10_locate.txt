@@ -1,0 +1,12 @@
+Step 1 : sudo apt install mlocate
+
+
+
+locate filename.extension
+
+locate -i filename.extension
+
+locate -i filename
+
+		It Return All the Files based on Filename.exension
+

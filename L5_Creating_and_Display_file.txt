@@ -11,7 +11,15 @@ Creating The File
 
 
     touch first.txt
+
         Here touch command is for creating the file
+
+
+Note :
+
+The Difference Between gedit and touch 
+    Where gedit will open the Text editor tool
+    Where touch will Create the file and Need to use VIM for Editing
 
 
 
@@ -28,9 +36,11 @@ Display
         Here Contents will be less
 
 
-    How Do i Display content with Number ?
+    cat -b sec1.txt
 
-        cat -b sec1.txt
+        How Do i Display content with Number ?
+
+        
 
 
 
