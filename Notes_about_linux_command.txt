@@ -5,20 +5,24 @@ What is zombie in linux Command by giving the top command ?
 
 
 
-Permission Details 
+su 
 
-	0 = 0      = nothing
+	Used to switch to root user (So that super user permission can be execute commands)
+
+
+su username 
 	
-	1 = 1      = executable(x)
+	Used to switch to a different user
 
-	2 = 2      = write (w)
 
-	3 = 2+1    = w + x
+sudo 
 
-	4 = 4      = read (r)
+	Executes only that cammand with root / super user privileges
 
-	5 = 4+1    = r + x
 
-	6 = 4+2    = r + w
 
-	7 = 4+2+1  = r + w + x
+What is Shell ?
+
+	The Shell is a command line Interpreter . It translates Commands entered by the user and converts them into a language that is understand by the kernel
+
+

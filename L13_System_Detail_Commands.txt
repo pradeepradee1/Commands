@@ -87,3 +87,9 @@
 	1) free -m
 
 	2) top 
+
+
+
+10) IP Address
+
+	ifconfig

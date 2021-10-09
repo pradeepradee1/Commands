@@ -1,0 +1,28 @@
+
+What is sudo ?
+	
+	sudo commands is for user Who doesn't have previleages or permission
+
+
+
+Add user 
+
+	sudo useradd name
+
+Add Password 
+
+	sudo passwd password
+
+Delete User
+
+	sudo userdel name
+
+Group User
+	
+	sudo groupadd techies
+
+
+Group Delete
+
+	sudo groupdel techies
+

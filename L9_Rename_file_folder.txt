@@ -2,5 +2,5 @@ Rename the File and Folder
 
 	mv sample.txt sample1.txt
 
-	mv Sample Sample
+	mv Sample Sample1
 

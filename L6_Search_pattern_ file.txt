@@ -1,8 +1,13 @@
 
-Syntax 
+Syntax
 
 grep search_content filename.extension
 
 grep a first.txt
 
 grep -i a first.txt
+
+
+grep -c a first.txt
+
+

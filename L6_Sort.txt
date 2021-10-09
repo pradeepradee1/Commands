@@ -1,0 +1,9 @@
+Sort the Content in the files ?
+    
+    Ascending Order 
+        
+        sort filename.extension
+
+    Descending Order
+
+        sort -r filename.extension

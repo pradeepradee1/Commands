@@ -1,0 +1,10 @@
+
+Syntax :
+
+	tar -cvf filename foldername
+
+
+
+unzip :
+
+	tar -xvf tar-file

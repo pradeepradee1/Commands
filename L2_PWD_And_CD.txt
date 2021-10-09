@@ -1,4 +1,4 @@
-1) pwd
+1) pwd (Print Working Directory)
 
 		How Do i Know Current Directory ?
 			
@@ -8,7 +8,7 @@
 
 
 
-2) cd
+2) cd (Change Directory)
 
 		How Do i Direction into home ?
 
@@ -20,6 +20,11 @@
 
 
 
-Example
 
-		Root/home/Pradeep.k@zucisystems.com/home/..
+
+
+
+
+
+
+
