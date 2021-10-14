@@ -8,7 +8,16 @@
 
 
 
+
 2) cd (Change Directory)
+
+		How Do i go back in the directory ?
+
+			cd ..
+
+		How Do i go double back in the directory ?
+
+			cd ../..
 
 		How Do i Direction into home ?
 
@@ -17,6 +26,8 @@
 		How Do i Direction into ROOT ?
 
 			cd /
+
+
 
 
 

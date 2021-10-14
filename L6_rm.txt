@@ -1,4 +1,4 @@
- rmdir Sample  
+ rmdir Sample
 
  rm -r Sample
 

@@ -38,7 +38,7 @@ Display
 
     cat -b sec1.txt
 
-        How Do i Display content with Number ?
+        How Do i Display content with Number excluding Empty Lines ?
 
         
 

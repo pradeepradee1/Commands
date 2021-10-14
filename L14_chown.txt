@@ -9,3 +9,5 @@ Syntax :
 
 	sudo chown root filename.txt
 
+
+

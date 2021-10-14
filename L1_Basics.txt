@@ -1,46 +1,11 @@
 
-1) ls
-
-		How Do i See the Syntax of Each Linux Command and Various Flag Options ?
-
-			1) ls --help
-
-			2) any_linux_command --help
-
-			3) man ls
-
-			4) man any_linux_command
-
-
-
-
-		ls /home/pradeep.k@zucisystems.com/Dummy/Train/
-
-
-
-		See the hidden files ?
-			
-			ls -a
-
-
-		Sort the files?
-			
-			ls -c
-
-
-		See the all mode or permission and time details  of files ?
-			
-			ls -l
-
-
-
-2) whoami 
+1) whoami 
 		
 		pradeep.k@zucisystems.com
 
 
 
-3) How Do i switch it to root ?
+2) How Do i switch it to root ?
 
 		sudo bash 
 
@@ -49,7 +14,8 @@
 		su
 
 
-4) How Do i GO from root to pradeep.k@zucisystems.com ?
+
+3) How Do i GO from root to pradeep.k@zucisystems.com ?
 
 		su pradeep.k@zucisystems.com
 
@@ -58,9 +24,18 @@
 
 Systems Hierarchy Example
 
-							Root/home/Pradeep.k@zucisystems.com/home/..
+						Root/home/Pradeep.k@zucisystems.com/home/..
 
 
 
 
+
+4) How Do i See the Syntax of Each Linux Command and Various Flag Options ?
+
+
+		1) any_linux_command --help
+
+		
+
+		2) man any_linux_command
 

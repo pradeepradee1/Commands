@@ -4,6 +4,7 @@
 
 		ps -aux
 
+
 2) Descending sort id Details of System Performance ?
 
 		top
@@ -19,6 +20,7 @@
 	kill 3212
 
 	kill PID (num)
+
 
 4) Password Change using linux Command ?
 
