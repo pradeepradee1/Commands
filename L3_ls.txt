@@ -19,7 +19,14 @@ ls
 		
 		ls -l
 
+	see the count of ls ?
+		
+		ls -1 | wc -l
 
+		Where
+			-1 --> only one entry per line (-1a if you want hidden files too )
+			wc --> wordcount
+			-l --> count lines
 
 Note :
 
