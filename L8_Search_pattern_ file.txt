@@ -1,0 +1,22 @@
+
+Syntax
+
+	grep search_content filename.extension
+
+
+	grep a first.txt
+
+
+
+Case Insensitive ?
+
+	grep -i a first.txt
+
+
+Count Number ?
+
+	grep -c a first.txt
+
+Case and Count ?
+
+	grep -ic a first.txt

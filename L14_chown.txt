@@ -1,0 +1,13 @@
+What is chown ?
+
+	It Changes File to Owner (root) of the file
+
+	ch-own
+
+
+Syntax :
+
+	sudo chown root filename.txt
+
+
+

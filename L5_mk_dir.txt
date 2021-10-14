@@ -1,0 +1,18 @@
+ mkdir Sample
+
+ mkdir Sample/Test
+
+ mkdir Sample/Today/Check
+
+ mkdir -p Sample/Today/Check
+
+        Where P is Parent Flag
+
+ mkdir --help
+
+
+
+
+
+
+ 

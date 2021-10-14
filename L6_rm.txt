@@ -1,0 +1,8 @@
+ rmdir Sample
+
+ rm -r Sample
+
+    Where R is Recursive Flag
+
+ rm --help
+

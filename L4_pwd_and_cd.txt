@@ -1,0 +1,41 @@
+1) pwd (Print Working Directory)
+
+		How Do i Know Current Directory ?
+			
+			pwd
+
+			pwd - Print Working Directory
+
+
+
+
+2) cd (Change Directory)
+
+		How Do i go back in the directory ?
+
+			cd ..
+
+		How Do i go double back in the directory ?
+
+			cd ../..
+
+		How Do i Direction into home ?
+
+			cd
+
+		How Do i Direction into ROOT ?
+
+			cd /
+
+
+
+
+
+
+
+
+
+
+
+
+

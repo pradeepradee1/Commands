@@ -1,0 +1,46 @@
+Creating The File
+
+
+    gedit newnote 
+
+    gedit newnote
+
+    gedit --help 
+
+
+
+
+    touch first.txt
+
+        Here touch command is for creating the file
+
+
+Note :
+
+The Difference Between gedit and touch 
+    Where gedit will open the Text editor tool
+    Where touch will Create the file and Need to use VIM for Editing
+
+
+
+
+Display
+
+    cat first.txt
+
+        Here cat is for display the contents in the terminal
+
+
+    cat first.txt | less
+
+        Here Contents will be less
+
+
+    cat -b sec1.txt
+
+        How Do i Display content with Number excluding Empty Lines ?
+
+        
+
+
+        
