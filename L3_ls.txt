@@ -32,3 +32,5 @@ Note :
 
 
 	ls /home/pradeep.k@zucisystems.com/Dummy/Train/
+
+

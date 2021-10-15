@@ -1,0 +1,48 @@
+Syntax 
+
+	chmod 777 name.txt
+
+
+Ways to give Mode :
+
+	Example :
+		
+		drwxr-xr-x 2 pradeep.k@zucisystems.com domain users@zucisystems.com 4096 Oct 14 18:11 Python
+
+	Where :
+
+	drwxr-xr-x
+
+		where d is the directory
+		      r is the read
+		      w is the write
+		      e is the execute
+	
+
+
+	Octal  :  	Owner(pradeep.k@zucisystems.com)			Group(domain)			Others(users@zucisystems.com)
+			            r   w   x 	               	          r   w   x       				   r   w   x								
+
+
+
+
+Permission Details 
+
+	0 = 0      = nothing
+	
+	1 = 1      = executable(x)
+
+	2 = 2      = write (w)
+
+	3 = 2+1    = w + x
+
+	4 = 4      = read (r)
+
+	5 = 4+1    = r + x
+
+	6 = 4+2    = r + w
+
+	7 = 4+2+1  = r + w + x
+
+
+
