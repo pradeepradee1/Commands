@@ -1,0 +1,34 @@
+
+Syntax for tar extesion    :
+
+						
+						tar cvf file.tar *.c 	( tar -cvf filename foldername )
+
+
+
+           untar extension :
+
+						tar xvf file.tar
+
+
+
+
+Syntax for zip extesion    :
+
+
+						zip –d filename.zip file.txt
+
+			unzip extension :
+
+						unzip myfile.zip 
+
+
+Syntax for gun extesion 	:
+
+						gunzip geekforgeeks.txt
+
+							output : geeksforgeeks.txt.gz
+
+						
+
+

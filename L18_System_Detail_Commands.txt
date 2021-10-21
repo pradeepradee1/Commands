@@ -97,3 +97,6 @@
 	ifconfig
 
 	
+11 ) CPU Config ?
+
+	lscpu
