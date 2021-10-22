@@ -1,33 +1,76 @@
+1)
+	Syntax for zip extesion    :
+							
+		zip filename.zip filename
 
-Syntax for tar extesion    :
+		EX:
+
+			zip dummy.zip dummy
 
 						
-						tar cvf file.tar *.c 	( tar -cvf filename foldername )
+
+	Syntax for unzip extesion    :
+
+
+		unzip filename.zip 
+
+		EX:
+
+			unzip dummy.zip
 
 
 
-           untar extension :
+2)
 
-						tar xvf file.tar
+	Syntax for tar extesion    :
 
+							
+		tar cvf filename.tar filename
 
+		EX: 
 
-
-Syntax for zip extesion    :
-
-
-						zip –d filename.zip file.txt
-
-			unzip extension :
-
-						unzip myfile.zip 
+			tar cvf dummy1.tar dummy1
 
 
-Syntax for gun extesion 	:
 
-						gunzip geekforgeeks.txt
+	Syntax for untar extension :
 
-							output : geeksforgeeks.txt.gz
+		tar xvf filename.tar
+
+		EX : 
+
+			tar xvf dummy1.tar
+
+
+
+
+
+3)
+
+	Syntax for gz extesion 	:
+
+		gzip filename.txt
+
+		EX :
+
+			gzip dummy2.txt
+
+			Output : dummy2.txt.gz
+
+
+	Syntax for gunzip extension :
+
+		gunzip filename.txt.gz
+
+		EX : 
+
+			gunzip dummy2.txt.gz
+
+			Output : dummy2.txt
+
+		
+
+
 
 						
 
