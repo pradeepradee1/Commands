@@ -86,9 +86,8 @@
 
 9) How Do i see the Memory ?
 
-	1) free -m
-
-	2) top 
+	1) free -m (megabytes)
+	2) free -g (gb)
 
 
 

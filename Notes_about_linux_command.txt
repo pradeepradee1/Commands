@@ -26,13 +26,9 @@ What is Shell ?
 	The Shell is a command line Interpreter . It translates Commands entered by the user and converts them into a language that is understand by the kernel
 
 
-How Do i Open the sublime Text ?
-	
-	subl
 
-How Do i Open the Visual studio Code ?
 
-	code
+
 
 
 

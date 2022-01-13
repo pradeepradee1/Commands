@@ -1,0 +1,8 @@
+How Do i Open the sublime Text ?
+	
+	subl
+
+How Do i Open the Visual studio Code ?
+
+	code
+
