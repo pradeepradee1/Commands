@@ -1,9 +1,9 @@
+1) How to kill the applicaion ?
 
 
-1) Details of System Performance ?
+	kill 3212
 
-		ps -aux
-
+	kill PID (num)
 
 2) Descending sort id Details of System Performance ?
 
@@ -14,12 +14,10 @@
 		using top command
 
 
-3) How to kill the applicaion ?
+3) Details of System Performance ?
 
+		ps -aux
 
-	kill 3212
-
-	kill PID (num)
 
 
 4) Password Change using linux Command ?

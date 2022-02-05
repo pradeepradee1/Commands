@@ -13,6 +13,8 @@ ls
 
 		ls -l  (Sort By Name)
 
+		ls -lr (Sort By Reverse)
+
 
 
 	See the all mode or permission and time details  of files ?
