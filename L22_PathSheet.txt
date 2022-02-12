@@ -1,0 +1,17 @@
+
+
+1)	/bin 	=	User Binaries
+2)	/sbin	=	System Binaries
+3) 	/etc	=	Configuration Files
+4) 	/dev	=	Device Files
+5) 	/proc	=	Process Information
+6) 	/var	=	Variable Files
+7) 	/tmp	=	Temporary Files
+8) 	/usr 	=   User Sys Resources
+9) 	/home	=	Home Directories
+10)	/boot	=	Boot Loader Files
+11)	/lib	=	System Libraries
+12)	/opt	=	Optional Add On Apps
+13)	/mnt	=	Mount Directory
+14)	/media	=	Removable Devices
+15)	/srv	=	Service Date
