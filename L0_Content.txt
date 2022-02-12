@@ -16,6 +16,7 @@ CATEGORY 3
 
 	Create and Display
 	Search Pattern 
+	Count
 	Sort
 
 

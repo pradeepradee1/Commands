@@ -94,6 +94,16 @@
 	ifconfig
 
 	
-11 ) CPU Config ?
+11) CPU Config ?
 
 	lscpu
+
+	  or
+
+	cat /proc/cpuinfo
+
+
+12) Display Who is in online ?
+	
+	w
+

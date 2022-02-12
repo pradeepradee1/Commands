@@ -1,0 +1,4 @@
+Count The fileline ?
+	
+	wc -l filename.extension
+

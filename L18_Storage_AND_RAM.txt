@@ -2,8 +2,22 @@
 
 		df -H
 
+		  or
+
+		df -h
+
+		  or
+
+
+
 
 
 2) To See RAM Space ?
 
 		free -g  (or) free -m (or) free -k
+
+
+				or
+
+		cat /proc/meminfo
+
