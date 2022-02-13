@@ -102,6 +102,8 @@
 
 	cat /proc/cpuinfo
 
+	where proc is process information
+
 
 12) Display Who is in online ?
 	

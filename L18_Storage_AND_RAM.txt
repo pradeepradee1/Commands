@@ -21,3 +21,5 @@
 
 		cat /proc/meminfo
 
+		where proc is process informations
+
