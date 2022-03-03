@@ -1,18 +1,5 @@
-1) To see the Harddisk space in terminal ?
 
-		df -H
-
-		  or
-
-		df -h
-
-		  or
-
-
-
-
-
-2) To See RAM Space ?
+1) To See RAM Space ?
 
 		free -g  (or) free -m (or) free -k
 

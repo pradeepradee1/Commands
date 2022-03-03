@@ -1,0 +1,9 @@
+1) To see the Harddisk space in terminal ?
+
+		df -H
+
+		  or
+
+		df -h
+
+		  or

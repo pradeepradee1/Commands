@@ -1,0 +1,19 @@
+To Clear PageCache :
+	
+	sudo sh -c 'echo 1 >  /proc/sys/vm/drop_caches'
+
+
+ To Clear dentries and inodes :
+
+ 	sudo sh -c 'echo 2 >  /proc/sys/vm/drop_caches' 
+
+ To Clear PageCache, dentries and inodes :
+
+ 	sudo sh -c 'echo 3 >  /proc/sys/vm/drop_caches'
+
+ To Clear Swap Space in Linux :
+
+ 	sudo swapoff -a
+ 	sudo swapon -a
+
+ 	

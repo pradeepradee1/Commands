@@ -1,0 +1,4 @@
+Tail a log file ?
+
+	tail -f logname.log
+
