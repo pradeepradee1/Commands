@@ -21,6 +21,15 @@ ls
 		
 		ls -l
 
+	See the Memory with bytes ?
+
+		ls -l
+
+	See the Memory with MB ?
+
+		ls -ltrh
+
+
 	see the count of ls ?
 		
 		ls -1 | wc -l
