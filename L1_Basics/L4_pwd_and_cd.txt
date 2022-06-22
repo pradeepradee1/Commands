@@ -7,8 +7,6 @@
 			pwd - Print Working Directory
 
 
-
-
 2) cd (Change Directory)
 
 		How Do i go back in the directory ?
@@ -26,6 +24,11 @@
 		How Do i Direction into ROOT ?
 
 			cd /
+
+
+3) Couple Of Actions
+	   
+   		cd ../ && cd Python
 
 
 
