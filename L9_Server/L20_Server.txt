@@ -1,12 +1,20 @@
 1) List all runnning server ?
+
 	ss -lt
 
-2) Kill  Server ?
+	(or)
+
+	sudo lsof -i -P -n | grep LISTEN
+
+2) Kill Python Server ?
+
 	pkill -9 python
 
 		(or)
 
 	lsof -t -i tcp:8000 | xargs kill -9
 
+
 3) Running the sever background ?
+
 	python manage.py runserver &
