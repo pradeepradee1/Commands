@@ -1,0 +1,45 @@
+CATEGORY 1 
+
+	Basics
+	SUDO
+	ls
+	PWD and CD
+
+
+CATEGORY 2
+
+	MKDIR
+	RM
+
+
+CATEGORY 3
+
+	Create and Display
+	Search Pattern 
+	Count
+	Sort
+
+
+CATEGORY 4
+
+	CP
+	MV
+	RENAME
+
+
+CATEGORY 5
+
+	Locate file
+	Change owner file
+	Change Mode file
+
+
+CATEGORY 6
+
+	Zip and Unzip
+	History
+	System Detail commands
+	Notes about Linux Commands
+
+
+
