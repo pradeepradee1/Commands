@@ -1,0 +1,3 @@
+Copy File in Hadoop from one_directory to another_directory ?
+
+	hdfs dfs -cp pradeep_old/test.txt pradeep_new/

@@ -1,0 +1,3 @@
+If I want to maintain top 100 commands in Log File?
+		
+		hdfs dfs -truncate -w 100 pradeep/test.log

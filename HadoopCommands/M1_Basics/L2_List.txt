@@ -1,0 +1,8 @@
+
+1) List Files ?
+		
+		hdfs dfs -ls /
+
+2) List Files With Memory Space ?
+		
+		hdfs dfs -du pradeep_latest

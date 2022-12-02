@@ -1,0 +1,41 @@
+Hadoop Version ?
+					
+			Hadoop version
+
+Check All the daemons commands work ?
+					
+			jps
+
+#Note : 
+			here daemons are all nodes(name node , data node,Resource manager,etc)
+
+
+How Do i See the Syntax of Each Linux Command and Various Flag Options ?
+			
+			hdfs dfs -usage anycommands
+
+					OR
+
+			hdfs dfs -help cat
+
+
+Files Details ?
+
+	hdfs dfs -stat %b pradeep/test.txt
+
+
+Group Details ?
+
+	hdfs dfs -stat %g pradeep/test.txt	
+
+Replication Details ?
+
+	hdfs dfs -stat %r pradeep/test.txt	
+
+User Details ?
+
+	hdfs dfs -stat %u pradeep/test.txt	
+
+Modify Files Details ?
+
+	hdfs dfs -stat %y pradeep/test.txt	

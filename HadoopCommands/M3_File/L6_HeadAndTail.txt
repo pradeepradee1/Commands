@@ -1,0 +1,7 @@
+Head 
+
+	hdfs dfs -head filename.csv
+
+Tail
+
+	hdfs dfs -tail filename.csv	

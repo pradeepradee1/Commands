@@ -1,0 +1,7 @@
+Merge Two File Content in HDFS and store it in Local
+
+	hdfs dfs -getmerge -nl pradeep/test.txt pradeep/test_old.txt ~/pradeep_new_local/mergefile.txt
+
+
+#NOTE:
+		Where ~ indicate the local

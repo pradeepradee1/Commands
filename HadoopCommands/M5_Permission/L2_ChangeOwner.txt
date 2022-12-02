@@ -1,0 +1,8 @@
+Change Owner 
+
+		hdfs dfs -chown pradeep:pradeep mydirectory/filename.csv
+
+
+		hdfs dfs -chown 777 mydirectory/filename.csv
+
+

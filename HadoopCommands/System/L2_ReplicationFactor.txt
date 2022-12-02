@@ -1,0 +1,3 @@
+ReplicationFactor?
+		
+		hdfs dfs -setrep -w 3 pradeep/test.txt

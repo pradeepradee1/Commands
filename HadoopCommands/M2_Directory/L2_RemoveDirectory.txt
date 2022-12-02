@@ -1,0 +1,3 @@
+Remove Directory ?
+
+	hdfs dfs -rmdir pradeep

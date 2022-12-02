@@ -1,0 +1,3 @@
+
+
+hdfs dfs -rm  pradeep/pradeep.txt

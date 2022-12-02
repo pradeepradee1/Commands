@@ -1,0 +1,5 @@
+
+hdfs dfs -copyToLocal pradeep/test.txt
+
+
+hdfs dfs -get pradeep/test.tx

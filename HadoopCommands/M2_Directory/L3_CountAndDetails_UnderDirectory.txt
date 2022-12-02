@@ -1,0 +1,3 @@
+Count And Details Directory?
+
+	hdfs dfs -count pradeep/

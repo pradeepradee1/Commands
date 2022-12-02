@@ -1,0 +1,4 @@
+Move File in Hadoop from one_directory to another_directory ?
+
+	hdfs dfs -mv pradeep_new/test.txt pradeep_latest/
+

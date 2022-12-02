@@ -1,0 +1,5 @@
+Create File?
+		hdfs dfs -touchz pradeep/pradeep.txt
+
+Display ?
+		hdfs dfs -cat pradeep/pradeep.txt
