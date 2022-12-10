@@ -1,8 +1,34 @@
-
 1) List Files ?
 		
 		hdfs dfs -ls /
 
-2) List Files With Memory Space ?
+		hdfs dfs -ls pradeep/
+
+Sort the Files based on the modification time ?
+		
+		hdfs dfs -ls -t
+
+Sort the Files based on the  size ?
+		
+		hdfs dfs -ls -S
+
+Sort the Files in reverse order ?
+		
+		hdfs dfs -ls -r
+
+List Files Directory Name ?
+		
+		hdfs dfs -ls -C
+
+
+
+2) List Files With Memory Space in bytes ?
 		
 		hdfs dfs -du pradeep_latest
+		
+		hdfs dfs -du -h pradeep_latest		
+
+
+3) List Files With Memory Space in Total Directory in bytes ?
+		
+		hdfs dfs -du -s pradeep_latest

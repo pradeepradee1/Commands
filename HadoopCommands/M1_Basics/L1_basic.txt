@@ -1,6 +1,6 @@
 Hadoop Version ?
 					
-			Hadoop version
+			hadoop version
 
 Check All the daemons commands work ?
 					
@@ -12,30 +12,10 @@ Check All the daemons commands work ?
 
 How Do i See the Syntax of Each Linux Command and Various Flag Options ?
 			
+			hdfs dfs -help cat
+					OR
 			hdfs dfs -usage anycommands
 
-					OR
-
-			hdfs dfs -help cat
+			
 
 
-Files Details ?
-
-	hdfs dfs -stat %b pradeep/test.txt
-
-
-Group Details ?
-
-	hdfs dfs -stat %g pradeep/test.txt	
-
-Replication Details ?
-
-	hdfs dfs -stat %r pradeep/test.txt	
-
-User Details ?
-
-	hdfs dfs -stat %u pradeep/test.txt	
-
-Modify Files Details ?
-
-	hdfs dfs -stat %y pradeep/test.txt	

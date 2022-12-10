@@ -1,0 +1,19 @@
+Size Details in bytes ?
+
+	hdfs dfs -stat %b pradeep/test.txt
+
+Group Details ?
+
+	hdfs dfs -stat %g pradeep/test.txt	
+
+User Details ?
+
+	hdfs dfs -stat %u pradeep/test.txt	
+
+Modify Files Details ?
+
+	hdfs dfs -stat %y pradeep/test.txt	
+
+Replication Details ? --> (Copy Details)
+
+	hdfs dfs -stat %r pradeep/test.txt	

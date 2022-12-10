@@ -1,5 +1,7 @@
 
-hdfs dfs -copyFromLocal pradeep/test.txt
+hdfs dfs -put test.tx pradeep/
 
-hdfs dfs -put pradeep/test.tx
+hdfs dfs -copyFromLocal test.txt pradeep/
+
+
 
