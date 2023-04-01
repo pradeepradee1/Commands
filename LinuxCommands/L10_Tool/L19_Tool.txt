@@ -6,3 +6,11 @@ How Do i Open the Visual studio Code ?
 
 	code
 
+
+Note : 
+	
+	Difference Between code and code .	?
+
+			code 	= VS application will open 
+			code .	= VS application will open with update project	
+
