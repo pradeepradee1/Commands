@@ -2,6 +2,10 @@ File Copy
 	
 	cp sample.txt /home/Desktop/Sample/firstsample
 
+How to copy the file with orignal the date and time?
+	
+	cp -p file.txt
+
 
 Folder Copy
 
