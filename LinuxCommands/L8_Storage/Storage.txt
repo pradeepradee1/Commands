@@ -1,9 +1,7 @@
-1) To see the Harddisk space in terminal ?
+1) To see the Harddisk memory space in terminal ?
 
 		df -H
 
 		  or
 
 		df -h
-
-		  or

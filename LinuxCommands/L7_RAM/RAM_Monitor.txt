@@ -10,3 +10,9 @@
 
 		where proc is process informations
 
+
+
+2) How can i see RAM memory and CPU Utilization ?
+		 
+		 top
+
