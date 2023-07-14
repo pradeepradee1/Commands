@@ -1,6 +1,8 @@
 ls
 
+	See the ls particular file ?
 
+		ls -l filename.txt
 
 	See the hidden files ?
 		
