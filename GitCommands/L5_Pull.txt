@@ -1,0 +1,11 @@
+Pull 
+
+
+git pull 
+
+
+To avoid Pull conflict changes
+
+
+
+ 
