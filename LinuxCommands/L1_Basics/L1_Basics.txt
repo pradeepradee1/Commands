@@ -39,3 +39,29 @@ Systems Hierarchy Example
 
 		2) man any_linux_command
 
+
+5) What are the parts of Unix Systems ?
+
+*) Kernel 
+*) Shell
+*) Application
+
+6) What is kernel ?
+Kernel is core of operaring systems
+Manages allocation of time and memory to programs
+
+
+7) What is  Shell ?
+Shell acts as interface between the user and the kernel 
+
+8) What is Virtual Box and Virtual Machine ?
+Virtual Box :
+Virtual Box is a cross platform virtulization applicatino
+Virtual Machine :
+Special Environment that virtualbox create for your operating 
+
+
+
+
+
+
