@@ -40,6 +40,10 @@ Display
 
         How Do i Display content with Number excluding Empty Lines ?
 
+
+cat = tac
+
+    tac first.txt
         
 
 
