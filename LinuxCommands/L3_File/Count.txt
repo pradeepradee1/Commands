@@ -1,3 +1,10 @@
+Count how many files in directory ?
+
+	wc -l
+
+
+
+
 Count The fileline ?
 	
 	wc -l filename.extension
