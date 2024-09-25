@@ -1,6 +1,6 @@
 Count how many files in directory ?
 
-	wc -l
+	ls -1 | wc -l
 
 
 
