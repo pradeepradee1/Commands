@@ -1,0 +1,8 @@
+How Do i access the remote Machine in local machine ?
+    open command prompt (windows)
+        ssh MachineName@hostname
+        enter the password
+
+        ssh itv005857@g02.itversity.com 
+        enter the password
+

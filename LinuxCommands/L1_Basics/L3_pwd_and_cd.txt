@@ -1,0 +1,55 @@
+1) pwd (Print Working Directory)
+
+		How Do i Know Current Directory ?
+			
+			pwd
+
+			pwd - Print Working Directory
+
+
+#Note 
+#  / it is forwards slash 
+#  Unix Commands are following the tree structure
+#  Absolute Path means compelete path 
+# 	for ex : /data/retail_db/departments
+#  Relative Path means 
+#	for ex : cd ../departments
+
+
+2) cd (Change Directory)
+
+		How Do i go back in the parent directory ?
+
+			cd ..
+
+		How Do i go double parent back in the directory ?
+
+			cd ../..
+		
+		How to use current directory ?
+
+			cd .
+
+		How Do i Direction into home ?
+
+			cd ~
+
+		How Do i Direction into ROOT ?
+
+			cd /
+		
+		How Do i go to previous directory ?
+
+			cd -
+
+
+3) Couple Of Actions
+	   
+   		cd ../ && cd Python
+
+
+
+
+
+
+

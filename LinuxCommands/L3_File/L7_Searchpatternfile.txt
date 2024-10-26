@@ -6,6 +6,11 @@ Syntax
 
 	grep a first.txt
 
+	grep pradeep * first.txt
+
+	grep pradeep 
+			this will search pradeep all the file under the directory
+
 
 
 Case Insensitive ?

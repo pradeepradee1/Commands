@@ -1,18 +1,21 @@
- mkdir Sample
+how to create the directory ?
 
- mkdir Sample/Test
+       mkdir Sample
 
- mkdir Sample/Today/Check
+       mkdir Sample/Test
 
- mkdir -p Sample/Today/Check
+       mkdir Sample/Today/Check
 
-        Where P is Parent Flag
+       mkdir -p Sample/Today/Check
 
- mkdir --help
+              Where P is Parent Flag
+
+       mkdir --help
 
 
 
+how to create the multiple directory ?
 
-
+       mkdir dir1 dir2 dir3
 
  

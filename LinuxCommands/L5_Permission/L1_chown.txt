@@ -10,4 +10,19 @@ Syntax :
 	sudo chown root filename.txt
 
 
+#Note :
+#Persmision details
+-rw -r- -r   =  Owner Group Others
+
+r = read 	(4) 	
+w = write	(2)
+x = execute	(1)
+
+#for ex:
+
+6 6 4 
+	Owner has the permission in read and write 
+	group has the permission on read and write 
+	other has the permission in read
+
 

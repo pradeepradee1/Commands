@@ -1,4 +1,4 @@
-File Copy
+File Copy and paste
 	
 	cp sample.txt /home/Desktop/Sample/firstsample
 

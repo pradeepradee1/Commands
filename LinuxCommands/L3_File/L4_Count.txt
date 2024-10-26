@@ -1,0 +1,27 @@
+Count The fileline ?
+
+	wc filename.extension 
+
+		Output : 4 14 70 ---> 4 lines and 14 words and 70 characters 
+	
+	wc -l filename.extension
+
+
+
+Count how many files in directory ?
+
+	ls -1 | wc -l
+
+see the count of ls ?
+		
+	ls -1 | wc -l
+
+	Where
+		-1 --> only one entry per line (-1a if you want hidden files too )
+		wc --> wordcount
+		-l --> count lines
+
+
+
+
+

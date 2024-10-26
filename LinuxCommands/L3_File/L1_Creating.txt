@@ -1,0 +1,58 @@
+1) Creating The File using touch command 
+
+    touch first.txt
+
+        Here touch command is for creating the file
+
+2) Creating The File using gedit command 
+
+    gedit newnote 
+
+    gedit newnote
+
+    gedit --help 
+    
+
+3) Creating The File using vi command 
+    
+    vi 
+
+        Then press i (insert model)
+        write the content
+        press esc and then shift + : and 
+        wq for save
+        q for quiting without save
+
+
+
+
+Note :
+
+The Difference Between gedit and touch 
+    Where gedit will open the Text editor tool
+    Where touch will Create the file and Need to use VIM for Editing
+
+
+4) Create file using CAT command ?
+
+cat > filename.txt 
+
+then 
+
+enter the content in file 
+for ex: This is file created using CAT command 
+
+cat filename.txt 
+
+op : This is file created using CAT command 
+
+
+
+5) how to merge the content of two file ?
+
+cat filename1.txt filename2.txt >> mergedfile.txt 
+
+cat mergedfile.txt 
+
+#Note : 
+# >> it is append

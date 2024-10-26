@@ -5,3 +5,13 @@
 		  or
 
 		df -h
+
+#Disk Usage
+
+2)  disk storage
+
+du filename.txt
+
+du -h /directory/sub_directory 
+
+	where -h represents the MB size

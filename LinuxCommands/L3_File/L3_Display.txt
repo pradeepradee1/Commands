@@ -1,0 +1,41 @@
+Display
+
+    cat first.txt
+
+        Here cat is for display the contents in the terminal
+
+Display with top
+
+    cat first.txt | less
+
+        Here Contents will be less
+
+
+    cat -b sec1.txt
+
+        How Do i Display content with Number excluding Empty Lines ?
+
+
+cat = tac
+
+    tac first.txt
+
+
+Head :
+
+        Head filename 
+
+        Head -10 filename 
+
+Tail :
+
+        Tail filename 
+
+        Tail -10 filaname
+
+
+
+Tail a log file ?
+
+	tail -f logname.log
+

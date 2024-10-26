@@ -1,0 +1,50 @@
+#Note :
+
+	Blue color 	= directories files
+	Green color = executable files 
+	Black Color = normal files
+
+
+
+ls = Long List
+ 
+	See the list with file name ascending order  ?
+
+		ls -l
+
+	See the list file name on descending order ?
+
+		ls -lr
+	
+	See the list based on time descending order (newest file) ?
+
+		ls -lt 
+
+	See the list based on time descending order (oldest file) ?
+
+		ls -ltr
+
+	See the Memory with MB ?
+
+		ls -ltrh
+	
+	See the multiple folder of file or recursive file ?
+
+		ls -R
+
+	See the hidden files ?
+		
+		ls -a
+	
+	See the Recursive and hidden file ?
+
+		ls -Ra
+
+	
+
+Note :
+
+
+	ls /home/pradeep.k@zucisystems.com/Dummy/Train/
+
+

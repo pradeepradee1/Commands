@@ -1,4 +1,4 @@
 
-File and Folder Move
+Cut and Paste
 	
 	mv sample.txt /home/Desktop/Sample/firstsample
