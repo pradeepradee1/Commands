@@ -1,0 +1,4 @@
+Check the blocks or data node of cluster ? and  Directory Health ?
+
+	hdfs fsck /pradeep/
+

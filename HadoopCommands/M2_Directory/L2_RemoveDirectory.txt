@@ -1,3 +1,9 @@
 Remove Directory ?
 
 	hdfs dfs -rmdir pradeep
+
+
+Remove the nested Directory ?
+
+	hdfs dfs -rm -R pradeep
+

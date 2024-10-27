@@ -1,10 +1,10 @@
-1) List Files ?
+List Files ?
 		
 		hdfs dfs -ls /
 
 		hdfs dfs -ls pradeep/
 
-Sort the Files based on the modification time ?
+See the list based on time descending order the  newest file ?
 		
 		hdfs dfs -ls -t
 
@@ -12,9 +12,15 @@ Sort the Files based on the  size ?
 		
 		hdfs dfs -ls -S
 
+		hdfs dfs -ls -S -h (human readable)
+
 Sort the Files in reverse order ?
 		
 		hdfs dfs -ls -r
+
+see the recursive file ?
+		
+		hdfs dfs -ls -R
 
 List Files Directory Name ?
 		
@@ -22,13 +28,4 @@ List Files Directory Name ?
 
 
 
-2) List Files With Memory Space in bytes ?
-		
-		hdfs dfs -du pradeep_latest
-		
-		hdfs dfs -du -h pradeep_latest		
 
-
-3) List Files With Memory Space in Total Directory in bytes ?
-		
-		hdfs dfs -du -s pradeep_latest

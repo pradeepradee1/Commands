@@ -1,4 +1,6 @@
-Move File in Hadoop from one_directory to another_directory ?
+Cut and past File in Hadoop from one_directory to another_directory ?
 
 	hdfs dfs -mv pradeep_new/test.txt pradeep_latest/
 
+#Note 
+mv commanda is faster than cp commands

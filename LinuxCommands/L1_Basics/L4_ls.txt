@@ -16,15 +16,15 @@ ls = Long List
 
 		ls -lr
 	
-	See the list based on time descending order (newest file) ?
+	See the list based on time descending order the  newest file ?
 
 		ls -lt 
 
-	See the list based on time descending order (oldest file) ?
+	See the list based on time descending order the oldest file ?
 
 		ls -ltr
 
-	See the Memory with MB ?
+	See the Memory with MB or human readable ?
 
 		ls -ltrh
 	

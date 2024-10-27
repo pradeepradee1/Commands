@@ -1,4 +1,4 @@
-1) To see the Harddisk memory space in terminal ?
+1) disk storage for Harddisk space ?
 
 		df -H
 
@@ -6,9 +6,9 @@
 
 		df -h
 
-#Disk Usage
+#df = disk free
 
-2)  disk storage
+2)  disk storage for directory 
 
 du filename.txt
 

@@ -1,0 +1,3 @@
+
+
+hdfs dfs -ls /user | grep pradeep

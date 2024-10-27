@@ -1,7 +1,17 @@
+There are 2 commands to do this
+
+    using 
+        1) put 
+        2) copyFromLocal
+
 
 hdfs dfs -put test.tx pradeep/
 
 hdfs dfs -copyFromLocal test.txt pradeep/
+
+
+
+camel Case = copyFromLocal
 
 
 

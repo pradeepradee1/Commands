@@ -1,3 +1,16 @@
 create Directory ?
 
 	hdfs dfs -mkdir pradeep
+
+Create nested directory ?
+
+#Note 
+
+	This will not work as like linux commands
+
+	hdfs dfs -mkdir /pradeep/dir1/dir2
+
+	This will work for nested directory 
+
+	hdfs dfs -mkdir -p /pradeep/dir1/dir2
+

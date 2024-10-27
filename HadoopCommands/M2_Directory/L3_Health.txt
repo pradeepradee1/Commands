@@ -1,4 +1,0 @@
-Check The Directory Health ?
-
-	hdfs fsck /pradeep/
-
