@@ -1,0 +1,45 @@
+#Note : 
+	DVC is dependent on the Git
+
+
+
+
+python3 -m venv .env
+source .env/bin/activate
+pip install -r requirements.txt
+
+
+dvc add data
+dvc add model.weights.h5
+
+git add data.dvc model.weights.h5.dvc metrics.csv .gitignore
+git commit -m "First model and data"
+git tag -a "v1.0" -m "model v1.0"
+git status
+
+After done changes
+
+dvc add data
+dvc add model.weights.h5
+
+
+git add data.dvc model.weights.h5.dvc metrics.csv
+git commit -m "Second model"
+
+How do i create tag ?
+	git tag -a "v2.0" -m "model v2.0"
+
+
+git checkout v1.0
+dvc checkout
+
+
+how to go to specific tag ?
+
+git checkout v2.0
+dvc checkout
+
+
+how to see all tags ?
+
+git tag

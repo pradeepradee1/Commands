@@ -3,3 +3,14 @@
 
 
 Local Area --->  Staging Area -----> Working (or) Local Repository ----> Central Repository 
+
+
+How to initilize the git in new folder ?
+    If i create new folder i want to initilize the git account in the new folder 
+
+    copy the https path and paste like (https://github.com/pradeepradee1/Spark.git)
+
+    type the commands --> git init 
+
+    
+
