@@ -22,6 +22,12 @@ see the recursive file ?
 		
 		hdfs dfs -ls -R
 
+See the files size ?
+		
+		hdfs dfs -ls -S
+
+		hdfs dfs -ls -S -h (human readable)
+
 List Files Directory Name ?
 		
 		hdfs dfs -ls -C
