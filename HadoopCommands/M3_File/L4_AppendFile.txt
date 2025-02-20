@@ -1,3 +1,5 @@
 Append Two file Content in Local to HDFS
 
 	hdfs dfs -appendToFile localFile1.txt localFile2.txt hdfsfile3.txt
+
+appendToFile moveing file from local to HDFS
