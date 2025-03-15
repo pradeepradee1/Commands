@@ -1,16 +1,23 @@
 
+UnStaging Area --->  Staging Area -----> Commit 
+
+1) unstaged =   make changes to existing files / add new files 
+2) stage    =   we have to stage the changes 
+3) commit   =   ready to commit 
 
 
+1) How to initilize the git in new folder ?
+        If i create new folder i want to initilize the git account in the new folder 
 
-Local Area --->  Staging Area -----> Working (or) Local Repository ----> Central Repository 
+        copy the https path and paste like (https://github.com/pradeepradee1/Spark.git)
 
+        type the commands --> git init 
 
-How to initilize the git in new folder ?
-    If i create new folder i want to initilize the git account in the new folder 
+        check with git status
 
-    copy the https path and paste like (https://github.com/pradeepradee1/Spark.git)
-
-    type the commands --> git init 
+2) 	git status
+	    fatal not a git Repository  =   it is not tracked by git (.git is not in repo) 
+	    on branch main 				=	it is tracking by git (.git is in repo)
 
     
 

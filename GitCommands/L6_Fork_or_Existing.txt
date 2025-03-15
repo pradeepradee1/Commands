@@ -1,0 +1,8 @@
+*) Working with Existing Project 
+
+Fork 
+    Get the copy of the code from some other github account to your account 
+
+Steps 
+    Click fork --> select the repository --> click fork 
+

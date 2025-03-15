@@ -1,0 +1,17 @@
+Git Stash 
+            : keep the changes in the temporary place so that we can retrive it 
+
+Command 
+    git stash
+
+How to stash the untracked file ?
+    git stash -u 
+
+How to retrive ?
+    git stash pop
+
+How the clear the temporary place ?
+    git stash clear 
+
+list temporary place ?
+    git stash list 

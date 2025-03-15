@@ -1,0 +1,28 @@
+*)	Undo the Changes in UnStaging Area ?
+
+	git restore filename.py 
+	(or)
+	git checkout -- filename.py
+	(or)
+	git checkout -- .
+
+*)  Undo the Changes in Staging Area ?
+	git restore --staged filename.py
+
+*)  Undo the Changes after the commit (or) Staging Area ?
+	git reset <hash value>
+
+	#Note : we can get the hash value from git log method
+
+	git reset head~1
+
+	#Note : we can go to the head~1 commit 
+
+*)  Reset 
+	git reset --hard 123456789
+	(or)
+	git reset 123456789
+	(or)
+	git reset HEAD
+
+

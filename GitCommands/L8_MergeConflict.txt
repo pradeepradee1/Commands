@@ -1,0 +1,26 @@
+What is merge conflict ?
+    The program is not sync with main branch ---> merge conflict 
+    
+    (OR)
+
+    One person is working on the same module on same branch 
+    another person is working on same module on same branch 
+    while merging the same module when we do the merge conflict this is merge conflict 
+
+    we need determine the what code it has to be
+
+For Ex:
+    spark.app.name = lendingclub 
+    <====== feature2 
+    spark.executor.cores = 3 
+    ======= 
+    spark.executor.cores = 4 
+    >>>>>>> main 
+
+
+    we need remove the lines
+
+    spark.app.name = lendingclub 
+    spark.executor.cores = 3 
+
+    then click the mark as resolved and commit merge and merge pull request 

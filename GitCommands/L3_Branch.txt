@@ -1,0 +1,38 @@
+*) Check the current branch ?
+	git branch 
+
+*) how to rename the branch ?
+	git branch -M main 
+	Here we rename the old branch (master) to new name branch (main) 
+
+*) 	New Branch 
+	git branch firstbranch
+
+*)	How Do i see list of existing branches ?
+	git branch -a
+
+*) 	How Do i Enable The Branch Or Go into the Branch ?
+	git checkout firstbranch
+
+	(OR)
+	
+	Create Branch and Go into the Branch in Single Command ?
+	git checkout -b firstbranch
+
+	#Note : code will move to firstbranch from previos branch 
+
+*)	Merge Branch 
+
+	Need To Go In Base Branch (OR) Master Branch
+	git merge firstbranch
+
+*)	Delete Branch 
+	git branch -d dummy
+
+	
+
+	
+
+
+
+

@@ -23,4 +23,6 @@ Step6	:
 			7) Restart server
 		
 Step7	:
-		Git clone
+			Github to local
+
+			Git clone and copy the https command and paste 
