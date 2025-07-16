@@ -4,8 +4,6 @@
 
 2) Directory Space ?
 		
-	hdfs dfs -du pradeep_latest
-		
 	hdfs dfs -du -h pradeep_latest		
 
 3) Directory Space ?
