@@ -8,10 +8,10 @@
 
 #df = disk free
 
-2)  disk storage for directory 
+2)  directory storage
 
-du filename.txt
+		du -h filename.txt
 
-du -h /directory/sub_directory 
+		du -h /directory/sub_directory 
 
-	where -h represents the MB size
+		where -h represents the MB size
