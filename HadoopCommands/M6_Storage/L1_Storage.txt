@@ -2,13 +2,13 @@
 
         hdfs dfs -df -h /user/
 
-2) List Files With Memory Space in bytes ?
+2) Directory Space ?
 		
-		hdfs dfs -du pradeep_latest
+	hdfs dfs -du pradeep_latest
 		
-		hdfs dfs -du -h pradeep_latest		
+	hdfs dfs -du -h pradeep_latest		
 
-3) List Files With Memory Space in Total Directory in bytes ?
+3) Directory Space ?
 		
 		hdfs dfs -du -s pradeep_latest
 
