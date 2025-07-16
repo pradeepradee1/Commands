@@ -26,7 +26,7 @@ ls = Long List
 		ls -ltr
 
 	See the Memory with MB or human readable ?
-
+		ls -lth
 		ls -ltrh
 	
 	See the multiple folder of file or recursive file ?
