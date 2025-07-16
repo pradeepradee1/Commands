@@ -1,3 +1,6 @@
+#Note : Please refer the Linux commands
+
+
 List Files ?
 		
 		hdfs dfs -ls /
