@@ -15,6 +15,7 @@ ls = Long List
 	See the list file name on descending order ?
 
 		ls -lr
+		#Note r is reverse
 	
 	See the list based on time descending order the  newest file ?
 
