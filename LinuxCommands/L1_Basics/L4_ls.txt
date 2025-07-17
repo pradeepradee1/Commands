@@ -25,6 +25,14 @@ ls = Long List
 
 		ls -ltr
 
+	See the list based on size of file ?
+
+		ls -lS
+		#Note : Not this one ls -ls
+	
+	See the list based on size in reverse ?
+		ls -lSr
+
 	See the Memory with MB or human readable ?
 		ls -lth
 		ls -ltrh
