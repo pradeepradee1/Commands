@@ -8,29 +8,29 @@
 
 ls = Long List
  
-	See the list with file name ascending order  ?
+	file name ascending order  ?
 
 		ls -l
 
-	See the list file name on descending order ?
+	file name on descending order ?
 
 		ls -lr
 		#Note r is reverse
 	
-	See the list based on time descending order the  newest file ?
+	newest file ?
 
 		ls -lt 
 
-	See the list based on time descending order the oldest file ?
+	oldest file ?
 
 		ls -ltr
 
-	See the list based on size of file ?
+	size of file ?
 
 		ls -lS
 		#Note : Not this one ls -ls
 	
-	See the list based on size in reverse ?
+	size in reverse ?
 		ls -lSr
 
 	See the Memory with MB or human readable ?
