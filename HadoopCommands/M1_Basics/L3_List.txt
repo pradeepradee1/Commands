@@ -1,6 +1,16 @@
 #Note : Please refer the Linux commands
 
 
+#Summary of ls
+	l = filename
+	t = new file
+	S = Space
+	h = human readable
+	a = hidden file
+	r = reverse
+	R = Recurrsive
+
+
 List Files ?
 		
 		hdfs dfs -ls /
