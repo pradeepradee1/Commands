@@ -9,24 +9,21 @@
 ls = Long List
  
 	file name ascending order  ?
-
 		ls -l
 
 	file name on descending order ?
-
 		ls -lr
 		#Note r is reverse
 	
 	newest file ?
-
 		ls -lt 
+		#Note Where t represents the newes(t)
+		
 
 	oldest file ?
-
 		ls -ltr
 
 	size of file ?
-
 		ls -lS
 		#Note : Not this one ls -ls
 	
@@ -38,15 +35,12 @@ ls = Long List
 		ls -ltrh
 	
 	See the multiple folder of file or recursive file ?
-
 		ls -R
 
 	See the hidden files ?
-		
 		ls -a
 	
 	See the Recursive and hidden file ?
-
 		ls -Ra
 
 	
