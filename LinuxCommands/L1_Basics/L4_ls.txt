@@ -5,6 +5,13 @@
 	Black Color = normal files
 
 
+#Summary of ls
+	l = filename
+	t = new file
+	S = Space
+	h = human readable
+	a = hidden file
+
 
 ls = Long List
  
@@ -18,7 +25,6 @@ ls = Long List
 	newest file ?
 		ls -lt 
 		#Note Where t represents the newes(t)
-		
 
 	oldest file ?
 		ls -ltr
@@ -39,10 +45,6 @@ ls = Long List
 
 	See the hidden files ?
 		ls -a
-	
-	See the Recursive and hidden file ?
-		ls -Ra
-
 	
 
 Note :
