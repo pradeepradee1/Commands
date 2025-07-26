@@ -11,6 +11,8 @@
 	S = Space
 	h = human readable
 	a = hidden file
+	r = reverse
+	R = Recurrsive
 
 
 ls = Long List
