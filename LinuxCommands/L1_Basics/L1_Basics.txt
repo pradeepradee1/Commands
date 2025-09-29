@@ -55,16 +55,19 @@ Manages allocation of time and memory to programs
 Shell acts as interface between the user and the kernel 
 
 
-8) What is Virtual Box and Virtual Machine ?
+8) Shell Scripts ?
+
+Shell scripts (.sh) are often used for automating tasks like  system commands, file manipulation and workflows. 
+
+
+9) What is Virtual Box and Virtual Machine ?
 
 Virtual Box :
 	Virtual Box is a cross platform virtulization applicatino
 Virtual Machine :
 	Special Environment that virtualbox create for your operating 
 
-9) Shell Scripts ?
 
-Shell scripts (.sh) are often used for automating tasks like  system commands, file manipulation and workflows. 
 
 
 
