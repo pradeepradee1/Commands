@@ -4,7 +4,7 @@
 #Summary of ls
 	l = filename
 	t = new file
-	S = Space
+	S = Space(size)
 	h = human readable
 	a = hidden file
 	r = reverse
