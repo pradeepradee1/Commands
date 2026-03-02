@@ -1,25 +1,7 @@
-1) Disk Free (Filesystem Level) ?
+1) Disk Usage (Directory/File Level)
 
-#df = disk free
-Shows disk space usage of entire filesystem / partition
-
-	df -H
-
-		(or)
-
-	df -h
-
-Example:
-	df -h
-Output : 
-	Filesystem      Size  Used Avail Use% Mounted on
-	/dev/sda1        50G   35G   13G  73% /
-
-
-2) Disk Usage (Directory/File Level)
-
+It Shows size of directories or file
 #du = Disk Usage
-Shows size of files and directories
 
 		du -h filename.txt
 
@@ -33,3 +15,18 @@ Output :
 	2.0G    /home/user1
 	500M    /home/user2
 	2.5G    /home
+
+
+
+2) Disk Free (Filesystem Level) ?
+
+
+It Shows the disk space usage of entire filesystem 
+#df = disk free
+
+Example:
+	df -h
+Output : 
+	Filesystem      Size  Used Avail Use% Mounted on
+	/dev/sda1        50G   35G   13G  73% /
+
