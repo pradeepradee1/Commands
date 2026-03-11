@@ -6,5 +6,5 @@ hdfs dfs -get pradeep/test.tx .
 hdfs dfs -copyToLocal pradeep/test.txt .
 
 Note : 
-Cursor is always in local ---> put the file
+Cursor is always in local ---> get the file
 
