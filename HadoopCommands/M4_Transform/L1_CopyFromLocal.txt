@@ -15,5 +15,8 @@ hdfs dfs -copyFromLocal test.txt pradeep/
 
 camel Case = copyFromLocal
 
+Note : 
+Cursor is always in local ---> put the file
+
 
 
