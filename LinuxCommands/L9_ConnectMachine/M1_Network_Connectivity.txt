@@ -1,0 +1,25 @@
+1) How do i test network connectivity to your Aurora PostgreSQL (Server) ?
+
+    Using (netcat) command.
+
+
+nc -zv syf-2026....com 5432
+
+
+nc              →   netcat tool (used for network debugging)
+-z              →   just scan, don’t send data
+-v              →   verbose (shows result)
+syf-2026....com →   your Aurora endpoint
+5432            →   default PostgreSQL port
+
+
+
+Output :
+
+Success 
+        Connection to syf-2026....com 5432 port [tcp/postgresql] succeeded!
+
+Failure 
+        nc: connect to syf-2026....com port 5432 (tcp) failed: Connection timed out
+
+        Your machine cannot reach Aurora
