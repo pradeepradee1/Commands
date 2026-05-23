@@ -41,12 +41,14 @@ ls = Long List
 	See the Memory with MB or human readable ?
 		ls -lSh
 		ls -lSrh
+
+	See the hidden files ?
+		ls -a
+	
 	
 	See the multiple folder of file or recursive file ?
 		ls -R
 
-	See the hidden files ?
-		ls -a
 	
 
 Note :
