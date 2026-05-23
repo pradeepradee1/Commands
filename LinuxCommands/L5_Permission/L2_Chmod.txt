@@ -3,25 +3,22 @@ Syntax
 	chmod 777 name.txt
 
 
-Ways to give Mode :
+#Note :
+#Persmision details
+-rw -r- -r   =  Owner Group Others
 
-	Example :
-		
-		drwxr-xr-x 2 pradeep.k@zucisystems.com domain users@zucisystems.com 4096 Oct 14 18:11 Python
+r = read 	(4) 	
+w = write	(2)
+x = execute	(1)
 
-	Where :
+#for ex:
 
-	drwxr-xr-x
-
-		where d is the directory
-		      r is the read
-		      w is the write
-		      e is the execute
-	
+6 6 4 
+	Owner has the permission in read and write 
+	group has the permission on read and write 
+	other has the permission in read
 
 
-	Octal  :  	Owner(pradeep.k@zucisystems.com)			Group(domain)			Others(users@zucisystems.com)
-			            r   w   x 	               	          r   w   x       				   r   w   x								
 
 
 
