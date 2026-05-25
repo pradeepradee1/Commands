@@ -1,6 +1,13 @@
 How do you Download file ?
 
 
+There are 2 commands to do this
+
+    using 
+        1) get             ---    POC is local
+        2) copyToLocal     ---    POC is cluster
+
+
 hdfs dfs -get pradeep/test.tx .
 
 hdfs dfs -copyToLocal pradeep/test.txt .
