@@ -3,8 +3,8 @@ How do you Upload file ?
 There are 2 commands to do this
 
     using 
-        1) put 
-        2) copyFromLocal
+        1) put             ---    POC is local
+        2) copyFromLocal   ---    POC is cluster
 
 
 hdfs dfs -put test.tx pradeep/
