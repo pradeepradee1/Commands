@@ -16,3 +16,11 @@
 14)	/media	=	Removable Devices
 15)	/srv	=	Service Date
 
+
+*) What is appbin ?
+    appbin is simply a folder containing application binaries/scripts.
+    appbin is not a standard Linux command or built-in directory like /bin, /usr/bin, or /sbin.
+    
+    Ex :
+            cd /opt/project/appbin
+            ./start.sh  
