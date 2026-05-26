@@ -6,7 +6,7 @@
 		
 	hdfs dfs -du -h pradeep_latest		
 
-3) Directory Space ?
-		
-		hdfs dfs -du -s pradeep_latest
+Note :
+	du = directory
+	df = filesystems
 
