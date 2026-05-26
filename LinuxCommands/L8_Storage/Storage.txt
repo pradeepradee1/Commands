@@ -30,3 +30,10 @@ Output :
 	Filesystem      Size  Used Avail Use% Mounted on
 	/dev/sda1        50G   35G   13G  73% /
 
+
+Note : 
+	du = directory
+	df = filesystem 
+
+
+
