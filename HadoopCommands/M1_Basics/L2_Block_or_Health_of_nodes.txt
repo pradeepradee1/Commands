@@ -1,4 +1,4 @@
-Check the blocks or filesystems of HDFS ?
+Check the health of HDFS filesystems ?
 
 	hdfs fsck /pradeep/
 
