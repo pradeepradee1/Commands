@@ -4,6 +4,12 @@ What is chown ?
 
 
 
+Owner  
+group  
+other 
+
+
+
 
 Syntax :
 
