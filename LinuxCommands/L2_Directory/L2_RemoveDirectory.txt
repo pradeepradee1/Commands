@@ -1,8 +1,10 @@
- rmdir Sample
+ how to remove the directory ?
 
- rm -r Sample
+ 
+      rmdir Sample
 
-    Where R is Recursive Flag
+      rm -r Sample
 
- rm --help
+         Where R is Recursive Flag
 
+ 

@@ -6,7 +6,7 @@ Count The fileline ?
 	
 	wc -l filename.extension
 
-
+---------------------------------------------------------------------------
 
 Count how many files in directory ?
 
